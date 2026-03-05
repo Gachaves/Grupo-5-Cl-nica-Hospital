@@ -1,5 +1,4 @@
 # Grupo-5-Cl-nica-Hospital
-
 Entregáveis (para cada exercício)
 Diagrama UML de Classes
 
@@ -8,14 +7,11 @@ Código em C#
 
 Implementar as 5 classes do enunciado, com 3 métodos por classe, sem herança.
 Um pequeno programa de teste (Program.cs) demonstrando o uso básico do modelo (criar objetos, chamar métodos na ordem lógica do contexto).
-O que deve ser entregue: um arquivo zip contendo um PDF do diagrama em uma pasta chamada diagrama e outra pasta chamada solucao, contendo a solucao com todas as classes
-
+O que deve ser entregue: um arquivo zip contendo um PDF do diagrama em uma pasta chamada diagrama e outra pasta chamada solucao, contendo a solucao com todas as classes.
 Cada aluno deve se inscrever em um grupo e haverá uma unica entrega para o grupo todo.
 
 Grupo 5 — Clínica/Hospital
-
 Objetivo: Agendar e concluir consultas com receita.
-
 Classes & métodos:
 
 Paciente: AgendarConsulta(Medico, string), ListarConsultas(): List<Consulta>, AtualizarContato(string)
@@ -30,7 +26,6 @@ Consulta marcada vincula paciente e médico.
 Ao concluir, receita pode ser emitida.
 
 Passos:
-
 Paciente/Medico/Consulta.
 Receita/Hospital.
 Testes.
